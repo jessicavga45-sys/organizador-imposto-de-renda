@@ -14,7 +14,6 @@ Este projeto foi desenvolvido com o objetivo de centralizar e organizar todas as
 * **Validação de Dados:** Menus suspensos inteligentes para garantir a integridade dos códigos bancários.
 * **Lógica de Tabelas:** Estruturação de dados que permite a expansão automática e filtros dinâmicos.
 * **UX/UI Design no Excel:** Interface limpa e intuitiva, facilitando o uso para o usuário final.
-* **Comunicação Administrativa:** Fluxo de e-mail integrado para suporte e confirmação de dados.
 
 ## 📂 Como utilizar
 1. Baixe o arquivo `organizador imposto de renda.xlsx`.
