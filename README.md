@@ -9,7 +9,6 @@ Este projeto foi desenvolvido com o objetivo de centralizar e organizar todas as
 * **Controle de Entradas (Notas):** Registro detalhado de holerites, extratos e receitas mensais com categorização.
 * **Repositório de Anexos:** Sistema visual (📎) para indicar e organizar o caminho de documentos digitais.
 * **Automação de Bancos:** Banco de dados integrado com códigos e nomes oficiais das principais instituições financeiras.
-* **Suporte Integrado:** Recurso para envio de e-mail direto para tirar dúvidas sobre o preenchimento.
 
 ## 🛠️ Competências Técnicas Aplicadas
 * **Validação de Dados:** Menus suspensos inteligentes para garantir a integridade dos códigos bancários.
